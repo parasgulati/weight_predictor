@@ -3,7 +3,8 @@ This code is written in Ocatve Language.<br/>
 I run this code in Ocatve CLI<br/>
 Ocatve is an easy language for complex mathematical calculations<br/>
 Its similar to Matlab<br/>
-I used the matrices manipulations to implement the algorithms.<br/>
+I used a self made dataset having 1 feature i.e height for inital learning purpose so that we can build a clear idea of what actually machine learning is.<br/>
+I used the matrix manipulations to implement the algorithms.<br/>
 It uses linear regression, a machine learning model to fit the training datasets using a weight optimization algorithm called Grdient Descent<br/>
 which tries to minimize the loss function in order to fit the best with the model.<br/>
 It basically moves towards the global minima.<br/>
