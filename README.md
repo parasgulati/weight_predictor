@@ -10,5 +10,5 @@ It basically moves towards the global minima.<br/>
 This code used some Hyper Parameters like inital weights and learning rate.<br/>
 Hyper Parameters are the parameters or weights that are used to fit the model with the data.These are choosen critically because the wrong values of these may leads the overfitting or worst fitting of the model.
 ![working](https://github.com/parasgulati/weight_predictor/blob/master/Capture.PNG)
-you can observe the predicted weight is 43.051 for a person whose height is 1.5m. 
+you can observe the predicted weight is 43.051kg for a person whose height is 1.5m. 
 Its quite Accurate !.
